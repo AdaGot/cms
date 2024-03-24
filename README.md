@@ -4,7 +4,7 @@ Krótki opis lub cel Twojego projektu.
 
 ## Spis Treści
 
-- [Projekt 1 PHP ](https://github.com/AdaGot/cms/tree/main/phpproject)
+- [Prosta strona w HTML ze zdjęciami](https://github.com/AdaGot/cms/tree/main/phpproject)
 - [Formularz rejestracji PHP](https://github.com/AdaGot/cms/tree/main/register_form_php)
 - [Wkład](#wkład)
 - [Licencja](#licencja)
