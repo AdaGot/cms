@@ -4,7 +4,7 @@ Krótki opis lub cel Twojego projektu.
 
 ## Spis Treści
 
-- [Instalacja](#instalacja)
+- [Projekt 1](https://github.com/AdaGot/cms/tree/main/phpproject)
 - [Użycie](#użycie)
 - [Wkład](#wkład)
 - [Licencja](#licencja)
